@@ -1,3 +1,5 @@
-no.py
-titanic.csv
+no.txt
+titanic.txt
 data/
+,ipynb_checkpoints/
+*.csv
